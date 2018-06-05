@@ -167,7 +167,7 @@ input[type=submit] {
 }
 
 /* Portfolio */
-.photo {
+.Photo {
   position: relative;
   float: left;
   width: 274px;
@@ -175,17 +175,17 @@ input[type=submit] {
   overflow: auto;
 }
 
-.photo:nth-child(even) {
+.Photo:nth-child(even) {
   margin-right: 40px;
 }
 
-.photo img {
+.Photo img {
   width: 100%;
   border: 0 none;
   opacity: 0.8;
 }
 
-.photo h3 {
+.Photo h3 {
   position: absolute;
   bottom: 20px;
   width: 100%;
